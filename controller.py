@@ -4,7 +4,6 @@
 # Università degli Studi di Padova
 # Corso di Laurea Magistrale in Informatica
 # 
-# wx.CallAfter(pub.sendMessage
 # Riccardo Angius
 #
 # controller.py
