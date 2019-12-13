@@ -1,0 +1,13 @@
+Il programma è stato sviluppato e testato su OS X 10.9, 
+Python 2.7.6, librerie NetworkX 1.9 e WxPython 3.0.0.
+
+Il programma viene avviato tramite:
+
+python controller.py
+
+Per una descrizione delle opzioni utilizzabili:
+
+python controller.py -h
+
+Riccardo Angius
+riccardo.angius@me.com

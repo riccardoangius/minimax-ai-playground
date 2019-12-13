@@ -1,0 +1,5 @@
+Experiments allowing 1 second(s) to decide a move.
+Experiments with a 3 by 3 gameboard.
+Sat  3 Oct 2015 23:41:38 CEST
+Currently experimenting: C1 vs C1T1.
+Switching sides, it's 50.
