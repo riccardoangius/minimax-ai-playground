@@ -1,6 +1,6 @@
-The Dots and Boxes game with a sprinkle of AI with Minimax , developed by Riccardo Angius. riccardo.angius@me.com
+The Dots and Boxes game with a sprinkle of AI with Minimax variants and different heuristics, developed by Riccardo Angius. riccardo.angius@me.com
 
-This app was developed and tested on OS X 10.9, Python 3.7, depending on python modules NetworkX 2 and WxPython 4.
+This app was developed and tested on OS X 10.9, Python 3.7. Requiresmodules NetworkX 2 and WxPython 4.
 
 Riccardo Angius
 riccardo.angius@me.com
